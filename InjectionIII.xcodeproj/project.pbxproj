@@ -649,6 +649,7 @@
 		BBCA02461FB1065D00E45F0F /* InjectionBundle */ = {
 			isa = PBXGroup;
 			children = (
+				BB34AA6C2E2A6C88007F5C12 /* Generics.swift */,
 				BBCA02471FB1065D00E45F0F /* Info.plist */,
 				BB16654325ECD827001407AE /* ClientBoot.mm */,
 				BBBE71BA260652E000F45DE2 /* SweepSeeding.m */,
